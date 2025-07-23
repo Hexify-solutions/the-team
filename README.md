@@ -1,3 +1,3 @@
-# the-team
+# the-dev-team
 
-Information about Hexify and their teams
+Information about  and their teams
